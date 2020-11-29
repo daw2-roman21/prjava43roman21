@@ -40,8 +40,8 @@ public class Prjava43roman21 extends Frame
         // "this" Frame fires WindowEvent its registered WindowEvent listener 
         // "this" Frame adds "this" object as a WindowEvent listener 
  
-      setTitle("prjava43roman21");  // "this" Frame sets title 
-      setSize(250, 100);        // "this" Frame sets initial size 
+      setTitle("Nova finestra prjava43roman21");  // "this" Frame sets title 
+      setSize(450, 100);        // "this" Frame sets initial size 
       setVisible(true);         // "this" Frame shows 
    } 
  
